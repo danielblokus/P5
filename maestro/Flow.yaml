@@ -1,0 +1,6 @@
+appId: com.p5
+---
+- tapOn: "Add"
+- inputText: "Hello World"
+- tapOn: "Submit"
+- assertVisible: "Hello World"
