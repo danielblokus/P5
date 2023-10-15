@@ -1,6 +1,8 @@
 Sample iOS app based on Project 5 from  [100 Days of Swift](https://www.hackingwithswift.com/100). E2E tests recoreded via [Maestro Studio](https://maestro.mobile.dev/getting-started/maestro-studio)
 
-# run Maestro flows locally
+
+Run Maestro flows locally
+
 1. Follow instructions https://maestro.mobile.dev/getting-started/installing-maestro
 
 2. Execute commands
